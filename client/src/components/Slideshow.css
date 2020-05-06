@@ -1,0 +1,23 @@
+.item {
+  color: black;
+}
+
+.text {
+  color: blue;
+}
+
+.img1 {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img2 {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.img3 {
+  max-width: 100%;
+  max-height: 100%;
+  background-color: black;
+}
